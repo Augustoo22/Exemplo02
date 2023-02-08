@@ -191,6 +191,7 @@ textarea {
     border-radius: 5px;
     box-shadow: -5px 2px 15px rgb(150, 50, 150) ;
     transition: 0.5s;
+    resize: none;
 }
 
 textarea:hover{
